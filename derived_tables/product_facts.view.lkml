@@ -1,3 +1,4 @@
+#facts
 view: product_facts {
   view_label: "Products"
   fields_hidden_by_default: yes
